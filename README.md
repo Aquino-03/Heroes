@@ -1,4 +1,4 @@
-# Projeto GameHero - Batalha de Turnos em Console
+# Projeto Heroes - Batalha de Turnos em Console
 
 Um simples jogo de RPG de batalha em turnos, desenvolvido em Java como parte dos meus estudos em Programação Orientada a Objetos.
 
